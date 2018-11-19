@@ -1,5 +1,4 @@
 import sys
-
 L = len(sys.argv) - 1
 
 myList = [1, 6, 9, 8, 14]
